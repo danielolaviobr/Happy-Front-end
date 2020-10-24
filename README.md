@@ -7,6 +7,9 @@
 </p>
 
 > This project was developed as part of the NLW event promoted by Rocketseat
+> You can find the Back-end and the Mobile versions on the links bellow.
+* [Back-end](https://github.com/danielolaviobr/Happy-Back-end)
+* Mobile (In Progress)
 
 ## Install
 
@@ -20,23 +23,10 @@ yarn install
 yarn start
 ```
 
-## Run tests
-
-```sh
-yarn run test
-```
-
 ## Author
 
 👤 **Daniel Olavio**
 
-* Website: http://danielolavio.com
+* Website: [https://danielolavio.com](https://danielolavio.com)
 * Github: [@danielolaviobr](https://github.com/danielolaviobr)
 * LinkedIn: [@daniel-olavio](https://linkedin.com/in/daniel-olavio)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
